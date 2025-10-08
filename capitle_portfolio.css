@@ -1,0 +1,73 @@
+body {
+    background-color: #ffe29296;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.profile_card {
+    width: 510px;
+    height: 510x;
+    padding: 20px;
+    background-color: #92e6ff;
+    border: 10px dashed #000000;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    border-color:#032A5A;
+    
+}
+.profile{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin:auto;
+}
+h3.one {
+    text-decoration: line-through;color: #000000;
+    text-shadow: 3px 3px 4px; color: #032A5A;
+}
+.contact_form {
+    width: 510px;
+    height: 700px;
+    padding: 20px;
+    background-color: #92e6ff;
+    border: 5px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+.games {    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 510px;
+    height: 510px;
+    padding: 20px;
+    background-color: #92e6ff;
+    border: 5px solid #032A5A;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    
+}
+.awards {
+    text-align: center;
+    margin-top: 50px;
+}
+.words {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify ;}
+
+
+.wa {border: 5px solid #032A5A;}
+
+.navtag {
+    font-style: none;
+    text-align: center;
+    background-color: #032A5A;
+    font-size: 40px;
+ 
+}
+.navtag a{
+    color: #ffe29296;
+    padding: 15px;   
+    text-decoration: none;   
+}
